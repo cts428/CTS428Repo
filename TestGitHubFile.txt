@@ -2,3 +2,6 @@ Hello World !!!
 We are now pushing the data into GitHub repo.
 Now we are updating the data in the file which is present in TestGitHub Branch.
 Once this data is updated in the file, we will pull it and mergr it into main branch.
+
+We have successfully pulled the first commit data into main branch.
+Now I am trying with second trial of pull from sub branch to main branch.
